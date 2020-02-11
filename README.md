@@ -118,7 +118,7 @@ If you are using a bundler such as WebPack, you can import **WebMidi.js** in you
 
 Starting with version 77, [Chrome deprecates Web MIDI usage on insecure origins](https://www.chromestatus.com/feature/5138066234671104). This means that, going forward, the page will 
 need to be hosted on a secure origin (e.g. `https://`, `localhost:` or `file:///`) and the user will 
-need to explicitely authorize usage (no matter if `sysex` is used or not).
+need to explicitly authorize usage (no matter if `sysex` is used or not).
 
 
 ## Quick Start
